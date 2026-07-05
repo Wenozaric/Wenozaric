@@ -29,4 +29,7 @@
 * **[Nginx](https://github.com/Wenozaric/nginx)** — Репозиторий с изучением базовых основ работы и конфигурации веб-сервера Nginx.
 * **[Tanstack-query](https://github.com/Wenozaric/tanstack-query)** — Репозиторий с изучением базовых основ работы  с Tanstack Query.
 
-![Моя статистика](https://vercel.app)
+### 📊 Моя активность
+
+[![Сетка активности Wenozaric](https://vercel.app)](https://github.com)
+
