@@ -3,12 +3,15 @@
 Здесь собрана удобная навигация по моим проектам, чтобы было проще понять, что к чему.
 
 ## 🚀 Лучшие проекты (Стоит посмотреть)
-* **[Oblako](https://github.com/wenozaric/oblako)** — Современная, легковесная и безопасная социальная платформа для общения, обмена контентом и взаимодействия в реальном времени. Проект полностью контейнеризирован с помощью Docker и оптимизирован для работы на любых устройствах. Сделан на хакатоне за 4 дня  
-  * *Стек:* React, TypeScript, Express.  
+* **[Oblako](https://github.com/Wenozaric/oblako)** — Современная, легковесная и безопасная социальная платформа для общения, обмена контентом и взаимодействия в реальном времени. Проект полностью контейнеризирован с помощью Docker и оптимизирован для работы на любых устройствах. Сделан на хакатоне за 4 дня.  
+  * *Стек:* React, TypeScript, Express, PostgreSQL  
   * *Статус:* `Production`
-* **[User-Activity-tracker](https://github.com/wenozaric/user-activity-tracker)** — Сервис для отслеживания активности пользователей с авторизацией, ежедневной статистикой и встроенным todo-менеджером.  
-  * *Стек:* React, TypeScript, Express  
+* **[User-Activity-tracker](https://github.com/Wenozaric/User-activity-tracker)** — Сервис для отслеживания активности пользователей с авторизацией, ежедневной статистикой и встроенным todo-менеджером.  
+  * *Стек:* Node.js, Express, TypeScript, Prisma, Docker, React  
   * *Статус:* `Завершен`
+* **[Delta-web](https://github.com/delta-web)** — Веб-сайт, сделанный по просбе без бекенда за пару дней..  
+  * *Стек:* React, TypeScript, Lenis ( библиотека для плавного скролла)  
+  * *Статус:* `В разработке`
 
 ---
 
@@ -17,12 +20,11 @@
 ### 🧱 Шаблоны для быстрого старта
 
 #### 🎨 Frontend Template
-* **[Vite-ts-template](https://github.com/wenozaric/vite-ts-template)** — Базовая структура для фронтенда на React + Typescript, используется tailwindcss, уже готовая структура папок со сборщиком vite
+* **[Vite-ts-template](https://github.com/Wenozaric/vite-ts-template)** — Базовая структура для фронтенда на React + TypeScript с использованием Tailwind CSS. Готовая архитектура папок со сборщиком Vite.
 
 #### 🗄️ Backend Template
-* **[Node-ts-template](https://github.com/wenozaric/node-ts-template)** — Стартовый шаблон для бекенда, инициализация призмы, сессии, защита с помощью express-rate-limiter, helmet
+* **[Node-ts-template](https://github.com/Wenozaric/node-ts-template)** — Стартовый шаблон для бэкенда на TypeScript: инициализация Prisma, сессий, защита с помощью express-rate-limiter и Helmet.
 
 ### 📚 Учебные, архивные работы
-* **[Nginx](https://github.com/wenozaric/nginx)** — Репозиторий с изучением базовых основ работы Nginx
-
-* **[Tanstack-query](https://github.com/wenozaric/tanstack-query)** — Репозиторий с изучением базовых основ работы с Tanstack-query
+* **[Nginx](https://github.com/Wenozaric/nginx)** — Репозиторий с изучением базовых основ работы и конфигурации веб-сервера Nginx.
+* **[Tanstack-query](https://github.com/Wenozaric/tanstack-query)** — Репозиторий с изучением базовых основ работы  с Tanstack Query.
