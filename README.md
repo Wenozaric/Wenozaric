@@ -9,7 +9,7 @@
 * **[User-Activity-tracker](https://github.com/Wenozaric/User-activity-tracker)** — Сервис для отслеживания активности пользователей с авторизацией, ежедневной статистикой и встроенным todo-менеджером.  
   * *Стек:* Node.js, Express, TypeScript, Prisma, Docker, React  
   * *Статус:* `Завершен`
-* **[Delta-web](https://github.com/delta-web)** — Веб-сайт, сделанный по просбе без бекенда за пару дней..  
+* **[Delta-web](https://github.com/wenozaric/delta-web)** — Веб-сайт, сделанный по просбе без бекенда за пару дней..  
   * *Стек:* React, TypeScript, Lenis ( библиотека для плавного скролла)  
   * *Статус:* `В разработке`
 
