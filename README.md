@@ -3,8 +3,7 @@
   <a href="https://typescriptlang.org" target="_blank"><img src="https://shields.io" alt="TypeScript" /></a>
   
   <a href="https://nestjs.com" target="_blank"><img src="https://shields.io" alt="NestJS" /></a>
-  <a href="https://npmjs.com" target="_blank"><img src="https://shields.io" alt="NPM Version" /></a>
-  <a href="https://npmjs.com" target="_blank"><img src="https://shields.io" alt="Package License" /></a>
+  <a href="https://npmjs.com" target="_blank"><img src="https://shields.io" alt="NPM" /></a>
   
   <a href="https://postgresql.org" target="_blank"><img src="https://shields.io" alt="PostgreSQL" /></a>
 </p>
