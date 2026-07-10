@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://react.dev" target="_blank"><img src="https://shields.io" alt="React" /></a>
-  <a href="https://typescriptlang.org" target="_blank"><img src="https://shields.io" alt="TypeScript" /></a>
-  <a href="https://nestjs.com" target="_blank"><img src="https://shields.io" alt="NestJS" /></a>
-  <a href="https://npmjs.com" target="_blank"><img src="https://shields.io" alt="NPM" /></a>
-  <a href="https://postgresql.org" target="_blank"><img src="https://shields.io" alt="PostgreSQL" /></a>
+  <a href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
+  <a href="https://typescriptlang.org" target="_blank"><img src="https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="https://nestjs.com" target="_blank"><img src="https://img.shields.io/badge/NESTJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" /></a>
+  <a href="https://npmjs.com" target="_blank"><img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" /></a>
+  <a href="https://postgresql.org" target="_blank"><img src="https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
 </p>
 
 # Привет!
