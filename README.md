@@ -1,4 +1,14 @@
-# Привет! Я Wenozaric
+<p align="center">
+  <!-- Frontend (например, React, можно заменить на Vue/Next.js) -->
+  <a href="https://react.dev" target="blank"><img src="https://githubusercontent.com" width="100" alt="React Logo" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Backend (NestJS) -->
+  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="110" alt="Nest Logo" /></a>
+</p>
+
+<p align="center">Полный стек технологий для создания эффективных и масштабируемых Full-Stack приложений.</p>
+
+# Привет!
 
 Здесь собрана удобная навигация по моим проектам, чтобы было проще понять, что к чему.
 
