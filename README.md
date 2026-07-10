@@ -1,12 +1,13 @@
 <p align="center">
-  <!-- Frontend (например, React, можно заменить на Vue/Next.js) -->
-  <a href="https://react.dev" target="blank"><img src="https://githubusercontent.com" width="100" alt="React Logo" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Backend (NestJS) -->
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="110" alt="Nest Logo" /></a>
+  <a href="https://react.dev" target="_blank"><img src="https://shields.io" alt="React" /></a>
+  <a href="https://typescriptlang.org" target="_blank"><img src="https://shields.io" alt="TypeScript" /></a>
+  
+  <a href="https://nestjs.com" target="_blank"><img src="https://shields.io" alt="NestJS" /></a>
+  <a href="https://npmjs.com" target="_blank"><img src="https://shields.io" alt="NPM Version" /></a>
+  <a href="https://npmjs.com" target="_blank"><img src="https://shields.io" alt="Package License" /></a>
+  
+  <a href="https://postgresql.org" target="_blank"><img src="https://shields.io" alt="PostgreSQL" /></a>
 </p>
-
-<p align="center">Полный стек технологий для создания эффективных и масштабируемых Full-Stack приложений.</p>
 
 # Привет!
 
@@ -15,7 +16,7 @@
 ## 🚀 Лучшие проекты (Стоит посмотреть)
 * **[Oblako](https://github.com/Wenozaric/oblako)** — Современная, легковесная и безопасная социальная платформа для общения, обмена контентом и взаимодействия в реальном времени. Проект полностью контейнеризирован с помощью Docker и оптимизирован для работы на любых устройствах. Сделан на хакатоне за 4 дня.  
   * *Стек:* React, TypeScript, Express, PostgreSQL  
-  * *Статус:* `Production`
+  * *Статус:* `Завершен`
 * **[User-Activity-tracker](https://github.com/Wenozaric/User-activity-tracker)** — Сервис для отслеживания активности пользователей с авторизацией, ежедневной статистикой и встроенным todo-менеджером.  
   * *Стек:* Node.js, Express, TypeScript, Prisma, Docker, React  
   * *Статус:* `Завершен`
