@@ -57,5 +57,6 @@
 * **[Tanstack-query](https://github.com/Wenozaric/tanstack-query)** — Репозиторий с изучением базовых основ работы  с Tanstack Query.
 * **[Nestjs](https://github.com/Wenozaric/nest-jt-test)** — Репозиторий с изучением базовых с nest.js + TypeScript.
 
-* ![ ]( https://streak-stats.demolab.com?user=Wenozaric)(https://git.io/streak-stats)
+* [![GitHub Streak](https://streak-stats.demolab.com?user=Wenozaric)](https://git.io/streak-stats)
+
 
